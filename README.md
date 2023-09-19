@@ -1,1 +1,1 @@
-# COSC-2P89-As1
+# COSC-2P89
